@@ -1,0 +1,25 @@
+# PostgreSQL. Versions 9.3 and up are supported.
+
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+
+development:
+  <<: *default
+  database: crud4
+  username: postgres
+  password: 123
+
+test:
+  <<: *default
+  database: crud4
+  username: postgres
+  password: 123
+  host: localhost
+
+production:
+  <<: *default
+  database: crud4
+  username: crud4
+  password: <%= ENV["CRUD4_DATABASE_PASSWORD"] %>
