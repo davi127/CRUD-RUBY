@@ -106,4 +106,4 @@ rails server
 Luego, abrí mi navegador y fui a http://localhost:3000.
 
 8. Conclusión
-Y así es como desarrollé mi proyecto CRUD. Desde la creación inicial hasta el CSS, todo fue un proceso bastante divertido. Si quieres, puedes añadir más detalles o ejemplos de uso a esta documentación. ¡Espero que te sirva!
+Y así es como desarrollé mi proyecto CRUD. Gracias. :D
