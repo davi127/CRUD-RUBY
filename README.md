@@ -1,6 +1,6 @@
 Documentación del Proyecto CRUD
 1. Introducción
-¡Hola! Aquí te cuento cómo desarrollé mi proyecto CRUD (Crear, Leer, Actualizar, Eliminar) usando Ruby on Rails y PostgreSQL. Este sistema es súper útil para gestionar datos a través de una interfaz web.
+Aquí te cuento cómo desarrollé mi proyecto CRUD (Crear, Leer, Actualizar, Eliminar) usando Ruby on Rails y PostgreSQL. Este sistema es súper útil para gestionar datos a través de una interfaz web.
 
 2. Tecnologías Utilizadas
 Para este proyecto, usé:
@@ -8,7 +8,7 @@ Para este proyecto, usé:
 Ruby como lenguaje de programación.
 Ruby on Rails como framework.
 PostgreSQL como base de datos.
-HTML, CSS y JavaScript para el frontend.
+HTML, CSS para el frontend.
 3. Instalación de Dependencias
 3.1. Requisitos Previos
 Primero, asegúrate de tener instalado lo siguiente:
